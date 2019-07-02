@@ -20,6 +20,6 @@ python3 -m eval.py
 <img src='https://user-images.githubusercontent.com/35487258/60531611-ef932d80-9d2d-11e9-8295-4099abcd6762.png'/>
 
 ## detail
-total stride of cnn network is 8 pixels
+Total stride of cnn network is 8 pixels in width,32 pixels in height
 
 
