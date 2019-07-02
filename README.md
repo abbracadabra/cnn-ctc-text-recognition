@@ -19,7 +19,7 @@ python3 -m eval.py
 ## tensorboard
 <img src='https://user-images.githubusercontent.com/35487258/60531611-ef932d80-9d2d-11e9-8295-4099abcd6762.png'/>
 
-## detail
+## network detail
 Overall stride of cnn network is 8 pixels in width,32 pixels in height
 
 
