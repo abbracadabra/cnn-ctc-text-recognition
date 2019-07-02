@@ -1,5 +1,6 @@
 ## references
 <a href='https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c'>An Intuitive Explanation of Connectionist Temporal Classification</a>
+<br>
 <a href='https://github.com/YCG09/chinese_ocr'>chinese_ocr</a>
 
 ## demo
