@@ -3,6 +3,13 @@
 <br>
 <a href='https://github.com/YCG09/chinese_ocr'>chinese_ocr</a>
 
+## use
+edit ```eval.py``` at line ```15```,replace with your image path
+```
+cd cnn-ctc-text-recognition
+python3 -m eval.py
+```
+
 ## demo
 <img src='https://user-images.githubusercontent.com/35487258/60530916-6af3df80-9d2c-11e9-8599-5b6264ea5c3d.jpg'/>
 ['当成为生态文学的主要']
